@@ -13,12 +13,12 @@ Variables
 
 :root {
   /* dark shades of primary color*/
-  --clr-primary-1: hsl(205, 86%, 17%);
-  --clr-primary-2: hsl(205, 77%, 27%);
-  --clr-primary-3: hsl(205, 72%, 37%);
-  --clr-primary-4: hsl(205, 63%, 48%);
+  --clr-primary-1: hsl(43, 97%, 39%);
+  --clr-primary-2: hsl(42, 100%, 40%);
+  --clr-primary-3: hsl(42, 100%, 44%);
+  --clr-primary-4: hsl(42, 100%, 48%);
   /* primary/main color */
-  --clr-primary-5: hsl(205, 78%, 60%);
+  --clr-primary-5: hsl(42, 100%, 54%);
   /* lighter shades of primary color */
   --clr-primary-6: hsl(205, 89%, 70%);
   --clr-primary-7: hsl(205, 90%, 76%);
@@ -199,9 +199,9 @@ nav {
   display: none;
 }
 .links {
-  /* height: 0;
+  height: 0;
   overflow: hidden;
-  transition: var(--transition); */
+  transition: var(--transition);
 }
 .show-links {
   height: 10rem;
